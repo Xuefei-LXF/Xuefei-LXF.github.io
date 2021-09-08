@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Xuefei Li</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-08-03T15:54:02-05:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2021-09-08T05:17:29-04:00</updated>
+ <id>http://hyde.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
    <email></email>
@@ -14,23 +14,25 @@
  
  <entry>
    <title>ABOUT ME</title>
-   <link href="http://localhost:4000/2020/08/03/bio/"/>
-   <updated>2020-08-03T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/08/03/bio</id>
-   <content type="html">&lt;p&gt;I’m Xuefei Li, pursuing Ph.D. in &lt;a href=&quot;https://www.ecse.rpi.edu/&quot;&gt;Electrical, Computer, and System Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.rpi.edu/&quot;&gt;Rensselaer Polytechnic Institute&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;https://chentianyi1991.github.io/&quot;&gt;Prof. Tianyi Chen&lt;/a&gt;.
-My Background is in the area of Machine Learning, Reinforcement Learning. I also have some experience in Computer Vision and Visualization.
-My current research interest focuses on the theory and applications of &lt;strong&gt;Reinforcement Learning&lt;/strong&gt; and &lt;strong&gt;Optimization&lt;/strong&gt;.&lt;/p&gt;
+   <link href="http://hyde.getpoole.com/2020/08/03/bio/"/>
+   <updated>2020-08-03T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/2020/08/03/bio</id>
+   <content type="html">&lt;p&gt;I’m Xuefei Li, pursuing Ph.D. in &lt;a href=&quot;https://www.ecse.rpi.edu/&quot;&gt;Electrical, Computer, and System Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.rpi.edu/&quot;&gt;Rensselaer Polytechnic Institute&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;https://chentianyi1991.github.io/&quot;&gt;Prof. Tianyi Chen&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;pdf/cv_fei.pdf&quot;&gt;[CV]&lt;/a&gt; &lt;a href=&quot;https://github.com/SnowflyLXF&quot;&gt;[Github]&lt;/a&gt; &lt;a href=&quot;https://snowflylxf.github.io/&quot;&gt;[Gallery]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;My Background is in the area of Machine Learning, Reinforcement Learning. I also have some experience in Computer Vision and Visualization, see &lt;a href=&quot;https://snowflylxf.github.io/&quot;&gt;[Gallery]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My current research interest focuses on the theory and applications of &lt;strong&gt;Reinforcement Learning&lt;/strong&gt; and &lt;strong&gt;Optimization&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;pdf/cv_xuefei.pdf&quot;&gt;[CV]&lt;/a&gt; &lt;a href=&quot;https://github.com/SnowflyLXF&quot;&gt;[Github]&lt;/a&gt; &lt;a href=&quot;https://snowflylxf.github.io/&quot;&gt;[Gallery]&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>
  
  <entry>
-   <title>Education</title>
-   <link href="http://localhost:4000/2020/08/02/education/"/>
-   <updated>2020-08-02T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/08/02/education</id>
+   <title>EDUCATION</title>
+   <link href="http://hyde.getpoole.com/2020/08/02/education/"/>
+   <updated>2020-08-02T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/2020/08/02/education</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Rensselaer Polytechnic Institute&lt;/strong&gt;, Troy, NY: Ph.D. in Electrical Engineering, 2020.9 - Now&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;University of Minnesota, Twin Cities&lt;/strong&gt;, Minneapolis, MN: M.S., Computer Science, 2018.9 - 2020.6&lt;/li&gt;
@@ -40,17 +42,33 @@ My current research interest focuses on the theory and applications of &lt;stron
  </entry>
  
  <entry>
-   <title>PROJECT</title>
-   <link href="http://localhost:4000/2020/08/01/project/"/>
-   <updated>2020-08-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2020/08/01/project</id>
+   <title>PUBLICATION</title>
+   <link href="http://hyde.getpoole.com/2020/08/01/project/"/>
+   <updated>2020-08-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/2020/08/01/project</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Reinforcement Learning of Motion from Videos.&lt;/strong&gt;
-Achieved pose estimation in 3D from a single video clip using 2D keypoints trajectories detected in each frame and Data-driven character animation with Reinforcement Learning.
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Communication-efficient Offline Policy Optimization from Distributed Batch Data.&lt;/strong&gt;
+Han Shen, Xuefei Li, Songtao Lu, Lior Horesh, Tianyi Chen. &lt;strong&gt;&lt;em&gt;Asilomar&lt;/em&gt;&lt;/strong&gt;, Jul, 2021
+&lt;button type=&quot;button&quot; class=&quot;button button2&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://cmsworkshops.com/Asilomar2021/Papers/ViewPapers.asp?PaperNum=1482&amp;amp;Mode=1&quot;&gt;Paper&lt;/a&gt;&lt;/button&gt;
+&lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button3&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://github.com/SnowflyLXF/FedDICE&quot;&gt;Code/a&gt;&lt;/button&gt; --&gt;
+&lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button1&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;video/mimic.mov&quot;&gt;Demo&lt;/a&gt;&lt;/button&gt; --&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Offline Policy Optimization Over Distributed Behavior-agnostic Datasets.&lt;/strong&gt;
+Han Shen, Xuefei Li, Songtao Lu, Tianyi Chen. &lt;strong&gt;&lt;em&gt;NeurIPS 2021&lt;/em&gt;&lt;/strong&gt;, submitted
+&lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button2&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://cmsworkshops.com/Asilomar2021/Papers/AbstractSearch.asp?show=search&quot;&gt;Paper&lt;/a&gt;&lt;/button&gt; --&gt;
+&lt;button type=&quot;button&quot; class=&quot;button button3&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://github.com/SnowflyLXF/FedDICE&quot;&gt;Code&lt;/a&gt;&lt;/button&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Reinforcement Learning of Motion from Videos.&lt;/strong&gt;
+Xuefei Li, Stephen J. Guy. Master’s project
 &lt;button type=&quot;button&quot; class=&quot;button button2&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;pdf/report.pdf&quot;&gt;Paper&lt;/a&gt;&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;button button3&quot;&gt;Code&lt;/button&gt;
-&lt;button type=&quot;button&quot; class=&quot;button button1&quot;&gt;Demo&lt;/button&gt;&lt;/li&gt;
+&lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button3&quot;&gt;Code&lt;/button&gt; --&gt;
+&lt;button type=&quot;button&quot; class=&quot;button button1&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;video/mimic.mov&quot;&gt;Demo&lt;/a&gt;&lt;/button&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
 </content>
  </entry>
  
