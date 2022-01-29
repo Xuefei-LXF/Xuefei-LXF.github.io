@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Xuefei Li</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2022-01-18T07:30:37-05:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-01-28T19:42:52-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>ABOUT ME</title>
-   <link href="http://hyde.getpoole.com/2020/08/03/bio/"/>
+   <link href="http://localhost:4000/2020/08/03/bio/"/>
    <updated>2020-08-03T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/2020/08/03/bio</id>
+   <id>http://localhost:4000/2020/08/03/bio</id>
    <content type="html">&lt;p&gt;I’m Xuefei Li, pursuing Ph.D. in &lt;a href=&quot;https://www.ecse.rpi.edu/&quot;&gt;Electrical, Computer, and System Engineering&lt;/a&gt; at &lt;a href=&quot;https://www.rpi.edu/&quot;&gt;Rensselaer Polytechnic Institute&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;https://chentianyi1991.github.io/&quot;&gt;Prof. Tianyi Chen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My Background is in the area of Machine Learning, Reinforcement Learning. I also have some experience in Computer Vision and Visualization, see &lt;a href=&quot;https://snowflylxf.github.io/&quot;&gt;[Gallery]&lt;/a&gt;.&lt;/p&gt;
@@ -30,9 +30,9 @@
  
  <entry>
    <title>EDUCATION</title>
-   <link href="http://hyde.getpoole.com/2020/08/02/education/"/>
+   <link href="http://localhost:4000/2020/08/02/education/"/>
    <updated>2020-08-02T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/2020/08/02/education</id>
+   <id>http://localhost:4000/2020/08/02/education</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Rensselaer Polytechnic Institute&lt;/strong&gt;, Troy, NY: Ph.D. in Electrical Engineering, 2020.9 - Now&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;University of Minnesota, Twin Cities&lt;/strong&gt;, Minneapolis, MN: M.S., Computer Science, 2018.9 - 2020.6&lt;/li&gt;
@@ -43,9 +43,9 @@
  
  <entry>
    <title>PUBLICATION</title>
-   <link href="http://hyde.getpoole.com/2020/08/01/project/"/>
+   <link href="http://localhost:4000/2020/08/01/project/"/>
    <updated>2020-08-01T00:00:00-04:00</updated>
-   <id>http://hyde.getpoole.com/2020/08/01/project</id>
+   <id>http://localhost:4000/2020/08/01/project</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Communication-efficient Offline Policy Optimization from Distributed Batch Data.&lt;/strong&gt;
@@ -55,8 +55,8 @@ Han Shen, Xuefei Li, Songtao Lu, Lior Horesh, Tianyi Chen. &lt;strong&gt;&lt;em&
 &lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button1&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;video/mimic.mov&quot;&gt;Demo&lt;/a&gt;&lt;/button&gt; --&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Offline Policy Optimization Over Distributed Behavior-agnostic Datasets.&lt;/strong&gt;
-Han Shen, Xuefei Li, Songtao Lu, Tianyi Chen. &lt;strong&gt;&lt;em&gt;NeurIPS 2021&lt;/em&gt;&lt;/strong&gt;, submitted
+    &lt;p&gt;&lt;strong&gt;Distributed Offline Policy Optimization Over Logged Data.&lt;/strong&gt;
+Han Shen, Songtao Lu, Xuefei Li, Xiaodong Cui, Tianyi Chen. &lt;strong&gt;ICML 2022&lt;/strong&gt;*, submitted
 &lt;!-- &lt;button type=&quot;button&quot; class=&quot;button button2&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://cmsworkshops.com/Asilomar2021/Papers/AbstractSearch.asp?show=search&quot;&gt;Paper&lt;/a&gt;&lt;/button&gt; --&gt;
 &lt;button type=&quot;button&quot; class=&quot;button button3&quot;&gt;&lt;a class=&quot;conf&quot; target=&quot;_blank&quot; href=&quot;https://github.com/SnowflyLXF/FedDICE&quot;&gt;Code&lt;/a&gt;&lt;/button&gt;&lt;/p&gt;
   &lt;/li&gt;
